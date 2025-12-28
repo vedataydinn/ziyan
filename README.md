@@ -1,16 +1,52 @@
-# ziyan_app
+⏳ Ziyan – Zaman Takip ve Farkındalık Uygulaması
 
-A new Flutter project.
+Ziyan, kullanıcıların zamanlarını nasıl harcadığını net bir şekilde görmesini sağlayan,
+boşa giden zamanı somut verilerle yüzleştiren bir mobil uygulamadır.
 
-## Getting Started
+“Zaman paradır” klişesini bırakır, hesabını çıkarır.
 
-This project is a starting point for a Flutter application.
+🎯 Amaç
 
-A few resources to get you started if this is your first Flutter project:
+Ziyan’ın temel amacı:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Boşa giden zamanı görünür kılmak
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zamanı paraya çevirerek farkındalık oluşturmak
+
+Kullanıcıyı suçlamadan ama kandırmadan gerçeklerle yüzleştirmek
+
+1 dakika = 60 TL varsayımıyla, kaybedilen zamanın maliyeti net şekilde gösterilir.
+
+🧠 Temel Özellikler
+
+⏱️ Zaman Takibi
+
+Verimli / Ziyan edilen zaman kategorileri
+
+💸 Para Karşılığı Hesaplama
+
+1 dakika = 60 TL dönüşüm sistemi
+
+📊 Net Durum Göstergesi
+
+Ziyan edilen zaman vs telafi edilen zaman karşılaştırması
+
+🔥 Motivasyon Sistemi
+
+Varsayılan ve kullanıcı tanımlı motivasyon sözleri
+
+🌗 Karanlık Mod
+
+🗄️ Yerel Veri Saklama
+
+Hive veritabanı kullanımı
+
+🔔 Bildirim Sistemi
+
+🏆 Başarım (Achievement) Sistemi
+
+🔐 Uygulama Kilidi
+
+🎬 Splash Screen
+
+Yumuşak geçişli açılış animasyonu
